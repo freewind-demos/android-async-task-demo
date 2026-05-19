@@ -1,0 +1,6 @@
+R_DEF: Internal format may change without notice
+local
+id progressBar
+id resultText
+id startBtn
+layout activity_main

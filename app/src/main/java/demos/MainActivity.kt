@@ -1,4 +1,4 @@
-package demos
+package demos.android.async.task.demo
 
 import android.os.AsyncTask
 import android.os.Bundle
